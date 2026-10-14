@@ -1,0 +1,24 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T3-P05-N02-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t3-p05-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Dauphin Island Extreme Wind-Borne Debris & Marine Stainless Fasteners",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t3-p05-n02-local/",
+  "primaryEntity": "Strengthen Alabama Homes $10,000 Storm Mitigation Grants",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t2-p02-n02-local/",
+      "anchor": "Commercial Flat Roofing & Maritime Industrial Solutions in Mobile AL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/guides/storm-damage-insurance-claim/",
+    "https://roofingcompanymobile.net/emergency-roof-repair/",
+    "https://roofingcompanymobile.net/roof-replacement/",
+    "https://roofingcompanymobile.net/metal-roofing/",
+    "https://roofingcompanymobile.net/"
+  ]
+}
