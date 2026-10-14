@@ -1,0 +1,24 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T3-P04-N02-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t3-p04-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Spanish Fort AL Bluff Wind Uplift Defense & Standing Seam Metal",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t3-p04-n02-local/",
+  "primaryEntity": "Daphne & Fairhope Eastern Shore Coastal Storm Architecture",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t2-p02-n01-local/",
+      "anchor": "Emergency Roof Tarping & Post-Storm Shrink-Wrap Triage in Mobile AL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/service-areas/daphne/",
+    "https://roofingcompanymobile.net/",
+    "https://roofingcompanymobile.net/guides/storm-damage-insurance-claim/",
+    "https://roofingcompanymobile.net/emergency-roof-repair/",
+    "https://roofingcompanymobile.net/roof-replacement/"
+  ]
+}
