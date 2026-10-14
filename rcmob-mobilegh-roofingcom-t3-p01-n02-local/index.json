@@ -1,0 +1,24 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T3-P01-N02-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t3-p01-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Theodore & Hollingers Island Coastal Wind Uplift Roof Protection",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t3-p01-n02-local/",
+  "primaryEntity": "Commercial Heat-Welded TPO & PVC Single-Ply Membranes",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t2-p01-n01-local/",
+      "anchor": "IBHS FORTIFIED Roof™ Sealed Roof Deck Standards in Mobile AL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/commercial-roofing/",
+    "https://roofingcompanymobile.net/roof-inspection/",
+    "https://roofingcompanymobile.net/",
+    "https://roofingcompanymobile.net/guides/storm-damage-insurance-claim/",
+    "https://roofingcompanymobile.net/service-areas/tillmans-corner/"
+  ]
+}
