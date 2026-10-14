@@ -1,0 +1,24 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T3-P02-N01-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t3-p02-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Saraland AL Hail Damage Roof Repairs & Architectural Shingle Upgrades",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t3-p02-n01-local/",
+  "primaryEntity": "High-Resolution Aerial Drone Radiometric Thermal Moisture Scanning",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t2-p01-n02-local/",
+      "anchor": "Standing Seam Metal Roofing & Marine Salt-Spray Resilience in Mobile AL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/roof-inspection/",
+    "https://roofingcompanymobile.net/",
+    "https://roofingcompanymobile.net/guides/storm-damage-insurance-claim/",
+    "https://roofingcompanymobile.net/service-areas/tillmans-corner/",
+    "https://roofingcompanymobile.net/service-areas/daphne/"
+  ]
+}
