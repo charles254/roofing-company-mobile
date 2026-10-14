@@ -1,0 +1,24 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T1-P00-N01-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t1-p00-n01-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Mobile AL Roofing Company & IBHS FORTIFIED Roof™ Installation Guide",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t1-p00-n01-local/",
+  "primaryEntity": "IBHS FORTIFIED Roof™ Sealed Roof Deck Specifications",
+  "outgoingLinks": [
+    {
+      "url": "https://roofingcompanymobile.net/",
+      "anchor": "licensed roofing contractors in mobile al",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/",
+    "https://roofingcompanymobile.net/guides/storm-damage-insurance-claim/",
+    "https://roofingcompanymobile.net/emergency-roof-repair/",
+    "https://roofingcompanymobile.net/roof-replacement/",
+    "https://roofingcompanymobile.net/metal-roofing/"
+  ]
+}
