@@ -1,0 +1,23 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T3-P02-N02-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t3-p02-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Semmes AL Impact-Resistant Class 4 Shingles & Ridge Venting",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t3-p02-n02-local/",
+  "primaryEntity": "Balanced Continuous Ridge and Soffit Attic Ventilation Engineering",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t2-p01-n02-local/",
+      "anchor": "Standing Seam Metal Roofing & Marine Salt-Spray Resilience in Mobile AL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/",
+    "https://roofingcompanymobile.net/guides/storm-damage-insurance-claim/",
+    "https://roofingcompanymobile.net/service-areas/tillmans-corner/",
+    "https://roofingcompanymobile.net/service-areas/daphne/"
+  ]
+}
