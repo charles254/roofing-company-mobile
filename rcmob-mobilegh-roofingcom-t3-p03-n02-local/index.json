@@ -1,0 +1,23 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T3-P03-N02-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t3-p03-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Mobile Bay Maritime Industrial & Port Facility Flat Roof Remediation",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t3-p03-n02-local/",
+  "primaryEntity": "Standardized Itemized Xactimate Insurance Claim Scope Preparation",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t2-p01-n03-local/",
+      "anchor": "Architectural Shingle Systems & Algae-Resistant Roofing in Mobile AL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/guides/storm-damage-insurance-claim/",
+    "https://roofingcompanymobile.net/service-areas/tillmans-corner/",
+    "https://roofingcompanymobile.net/service-areas/daphne/",
+    "https://roofingcompanymobile.net/"
+  ]
+}
