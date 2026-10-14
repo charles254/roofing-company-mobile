@@ -1,0 +1,23 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T2-P01-N02-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t2-p01-n02-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Standing Seam Metal Roofing & Marine Salt-Spray Resilience in Mobile AL",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t2-p01-n02-local/",
+  "primaryEntity": "24/7 Rapid Emergency Roof Tarping & Lumber Batten Stabilization",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t1-p00-n01-local/",
+      "anchor": "Mobile AL Roofing Company & IBHS FORTIFIED Roof™ Installation Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/emergency-roof-repair/",
+    "https://roofingcompanymobile.net/roof-replacement/",
+    "https://roofingcompanymobile.net/metal-roofing/",
+    "https://roofingcompanymobile.net/"
+  ]
+}
