@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charles254.github.io/roofing-company-mobile/sitemap.xml
