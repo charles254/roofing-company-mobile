@@ -1,0 +1,24 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T1-P00-N02-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t1-p00-n02-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Mobile AL Emergency Roof Repair & Storm Damage Restoration Guide",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t1-p00-n02-local/",
+  "primaryEntity": "Strengthen Alabama Homes $10,000 Storm Mitigation Grants",
+  "outgoingLinks": [
+    {
+      "url": "https://roofingcompanymobile.net/roof-replacement/",
+      "anchor": "residential roof replacement in mobile",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/guides/storm-damage-insurance-claim/",
+    "https://roofingcompanymobile.net/",
+    "https://roofingcompanymobile.net/emergency-roof-repair/",
+    "https://roofingcompanymobile.net/roof-replacement/",
+    "https://roofingcompanymobile.net/metal-roofing/"
+  ]
+}
