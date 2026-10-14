@@ -1,0 +1,24 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T2-P01-N03-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t2-p01-n03-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Architectural Shingle Systems & Algae-Resistant Roofing in Mobile AL",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t2-p01-n03-local/",
+  "primaryEntity": "Structural Roof Deck 8d Ring-Shank Fastening (6-Inch OC Spacing)",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t1-p00-n01-local/",
+      "anchor": "Mobile AL Roofing Company & IBHS FORTIFIED Roof™ Installation Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/roof-replacement/",
+    "https://roofingcompanymobile.net/metal-roofing/",
+    "https://roofingcompanymobile.net/",
+    "https://roofingcompanymobile.net/emergency-roof-repair/",
+    "https://roofingcompanymobile.net/commercial-roofing/"
+  ]
+}
