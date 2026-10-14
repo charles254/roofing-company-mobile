@@ -1,0 +1,23 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T3-P03-N01-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t3-p03-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Prichard AL Residential Roof Deck Re-Sheathing & Flashing Repair",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t3-p03-n01-local/",
+  "primaryEntity": "Self-Adhering Polymer-Modified Bitumen Flashing & Underlayment",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t2-p01-n03-local/",
+      "anchor": "Architectural Shingle Systems & Algae-Resistant Roofing in Mobile AL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/",
+    "https://roofingcompanymobile.net/guides/storm-damage-insurance-claim/",
+    "https://roofingcompanymobile.net/service-areas/tillmans-corner/",
+    "https://roofingcompanymobile.net/service-areas/daphne/"
+  ]
+}
