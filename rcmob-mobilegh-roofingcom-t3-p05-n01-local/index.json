@@ -1,0 +1,23 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T3-P05-N01-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t3-p05-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Fairhope AL Tree Canopy Moisture Defense & Algae-Resistant Shingles",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t3-p05-n01-local/",
+  "primaryEntity": "IBHS FORTIFIED Roof™ Sealed Roof Deck Specifications",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t2-p02-n02-local/",
+      "anchor": "Commercial Flat Roofing & Maritime Industrial Solutions in Mobile AL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/",
+    "https://roofingcompanymobile.net/emergency-roof-repair/",
+    "https://roofingcompanymobile.net/roof-replacement/",
+    "https://roofingcompanymobile.net/metal-roofing/"
+  ]
+}
