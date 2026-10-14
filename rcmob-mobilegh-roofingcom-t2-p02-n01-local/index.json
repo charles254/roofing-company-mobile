@@ -1,0 +1,25 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T2-P02-N01-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t2-p02-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Emergency Roof Tarping & Post-Storm Shrink-Wrap Triage in Mobile AL",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t2-p02-n01-local/",
+  "primaryEntity": "24-Gauge Galvalume Standing Seam Metal & Marine Salt Corrosion Defense",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t1-p00-n02-local/",
+      "anchor": "Mobile AL Emergency Roof Repair & Storm Damage Restoration Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/metal-roofing/",
+    "https://roofingcompanymobile.net/roof-replacement/",
+    "https://roofingcompanymobile.net/",
+    "https://roofingcompanymobile.net/emergency-roof-repair/",
+    "https://roofingcompanymobile.net/commercial-roofing/",
+    "https://roofingcompanymobile.net/roof-inspection/"
+  ]
+}
