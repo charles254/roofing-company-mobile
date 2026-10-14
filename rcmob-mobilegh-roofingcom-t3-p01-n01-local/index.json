@@ -1,0 +1,24 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T3-P01-N01-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t3-p01-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Tillmans Corner AL Residential Roof Replacements & Wind Mitigation",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t3-p01-n01-local/",
+  "primaryEntity": "Continuous Heat-Sealed Roof Shrink-Wrapping Triage",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t2-p01-n01-local/",
+      "anchor": "IBHS FORTIFIED Roof™ Sealed Roof Deck Standards in Mobile AL",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/emergency-roof-repair/",
+    "https://roofingcompanymobile.net/commercial-roofing/",
+    "https://roofingcompanymobile.net/roof-inspection/",
+    "https://roofingcompanymobile.net/",
+    "https://roofingcompanymobile.net/guides/storm-damage-insurance-claim/"
+  ]
+}
