@@ -1,0 +1,23 @@
+{
+  "nodeCode": "RCMOB-MOBILEGH-ROOFINGCOM-T2-P01-N01-LOCAL",
+  "slug": "rcmob-mobilegh-roofingcom-t2-p01-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "IBHS FORTIFIED Roof™ Sealed Roof Deck Standards in Mobile AL",
+  "canonical": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t2-p01-n01-local/",
+  "primaryEntity": "Alabama Insurance Underwriting Association (AIUA) Premium Reductions",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/roofing-company-mobile/rcmob-mobilegh-roofingcom-t1-p00-n01-local/",
+      "anchor": "Mobile AL Roofing Company & IBHS FORTIFIED Roof™ Installation Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://roofingcompanymobile.net/",
+    "https://roofingcompanymobile.net/emergency-roof-repair/",
+    "https://roofingcompanymobile.net/roof-replacement/",
+    "https://roofingcompanymobile.net/metal-roofing/"
+  ]
+}
